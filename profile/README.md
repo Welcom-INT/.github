@@ -48,7 +48,7 @@ Our bees spend the year:
 
 - 🧭 Walking new arrivals through housing, banking, SIM cards, and the fine art of French admin paperwork
 - 🎉 Running events that make the campus feel like home : the Welcome BBQ, the Global Village, an annual trip abroad, and themed nights with AbsINThe, the campus bar
-- 🌍 Translating everything : the site currently runs in 🇬🇧 English, 🇫🇷 Français, 🇪🇸 Español, 🇩🇪 Deutsche, 🇧🇷 Português, 🇨🇳 简体中文, 🇹🇼 繁體中文, 🇮🇳 हिन्दी, 🇻🇳 Tiếng Việt, and 🇸🇦 العربية
+- 🌍 Translating everything : the site currently runs in 🇬🇧 English, 🇫🇷 Français, 🇪🇸 Español, 🇩🇪 Deutsch, 🇧🇷 Português, 🇨🇳 简体中文, 🇹🇼 繁體中文, 🇮🇳 हिन्दी, 🇻🇳 Tiếng Việt, and 🇸🇦 العربية
 - 🐝 Holding office hours in the Welcom' room at the Foyer
 
 <p align="center">· · · 🐝 · · ·</p>
